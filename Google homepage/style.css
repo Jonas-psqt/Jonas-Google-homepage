@@ -1,0 +1,159 @@
+.gmail
+{
+	color: black;
+	text-decoration: none;
+	margin-right: 10px;
+}
+
+.images
+{
+	color: black;
+	text-decoration: none;
+	margin-right: 10px;
+}
+
+.gmail:hover
+{
+	text-decoration: underline;
+}
+
+.images:hover
+{
+	text-decoration: underline;
+}
+
+.connexion
+{
+	text-decoration: none;
+	color: white;
+	background-color: #4D82EB;
+	padding: 8px;
+	font-family: Arial;
+	margin-left : 10px;
+	border-radius: 3px;
+}
+
+.haut
+{
+	font-size: 15px;
+	text-align: right;
+	margin-right: 20px
+}
+img
+{
+	vertical-align: middle;
+}
+
+#conteneur
+{
+	margin-top: 150px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.recherche
+{
+	margin-right: 15px;
+	text-decoration: none;
+	color: #6D6C6C;
+	background-color:#EBEEF4;
+	padding: 9px;
+}
+.chance
+{
+	text-decoration: none;
+	color: #6D6C6C;
+	background-color: #EBEEF4;
+	padding: 9px;
+}
+.recherche:hover
+{
+	color: black;
+	text-decoration: none;
+	border: solid 2px #DFDFDF;
+	border-radius: 3px;
+}
+.chance:hover
+{
+	color: black;
+	text-decoration: none;
+	border: solid 2px #DFDFDF;
+	border-radius: 3px;
+}
+.element
+{
+	margin-bottom: 20px;
+}
+.france
+{
+	color: #6D6C6C;
+	background-color: #EBEEF4;
+	padding : 11px;
+	border: solid 2px #DFDFDF;
+	margin-bottom: -18px;
+}
+.bas
+{
+	color: #6D6C6C;
+	background-color: #EBEEF4;
+	padding : 11px;
+	border: solid 2px #DFDFDF;
+}
+.pub
+{
+	color: #6D6C6C;
+	text-decoration: none;
+	margin-right: 20px;
+}
+.entreprise
+{
+	color: #6D6C6C;
+	text-decoration: none;
+	margin-right: 20px;
+}
+.propos
+{
+	color: #6D6C6C;
+	text-decoration: none;
+	margin-right: 20px;
+}
+.comment
+{
+	color: #6D6C6C;
+	text-decoration: none;
+	margin-right: 440px;
+}
+.infos
+{
+	color: #6D6C6C;
+	text-decoration: none;
+	margin-right: 20px;
+}
+.confi
+{
+	color: #6D6C6C;
+	text-decoration: none;
+	margin-right: 20px;
+}
+.condi
+{
+	color: #6D6C6C;
+	text-decoration: none;
+	margin-right: 20px;
+}
+
+.bas:visited
+{
+	color:#6D6C6C;
+}
+
+#liens
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	margin-top: 200px;
+	margin-bottom: -70px;
+	font-size: 15px;
+}
